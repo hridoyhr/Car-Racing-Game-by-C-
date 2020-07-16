@@ -1,0 +1,10 @@
+E:\C#\Practice\FirstGameProject\bin\Debug\FirstGameProject.exe.config
+E:\C#\Practice\FirstGameProject\bin\Debug\FirstGameProject.exe
+E:\C#\Practice\FirstGameProject\bin\Debug\FirstGameProject.pdb
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.Form1.resources
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.Properties.Resources.resources
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.csproj.GenerateResource.cache
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.csproj.CoreCompileInputs.cache
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.exe
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.pdb
+E:\C#\Practice\FirstGameProject\obj\Debug\FirstGameProject.csprojAssemblyReference.cache
